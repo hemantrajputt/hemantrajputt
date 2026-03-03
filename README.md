@@ -17,15 +17,11 @@
 
 <br/>
 
-```ts
-const hemant = {
-  role    : "Data Scientist × AI Builder",
-  company : "Publicis Media",
-  alma    : "IIT Kanpur",
-  focus   : ["LLMs", "RAG Pipelines", "AI-Powered Products"],
-  building: "Elurance — AI-first Presentation Editor",
-};
-```
+`Data Scientist × AI Builder` · `Publicis Media` · `IIT Kanpur`
+
+Focused on `LLMs` · `RAG Pipelines` · `AI-Powered Products`
+
+Building **[Elurance](https://elurance.com)** — an AI-first Presentation Editor
 
 <br/>
 
