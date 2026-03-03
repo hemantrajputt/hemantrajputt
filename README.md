@@ -4,7 +4,7 @@
 ### Building at the intersection of AI × Product
 *IIT Kanpur · Data Scientist @ Publicis Media · Founder*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantrajputt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-rajput-2b8a8123a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantrajputt)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantrajput1201@gmail.com)
 
@@ -19,9 +19,8 @@
 <td width="60%">
 
 ### [Elurance](https://elurance.com) — AI-Powered Presentation Editor
-**Live & Shipped** · *Full-stack solo build*
 
-An AI-first presentation tool — prompt to deck in seconds. Built with real design templates, PPTX export, and a refinement loop so you get exactly what you want.
+An AI-first presentation editor — create slides from scratch with just prompting.
 
 - 🤖 Prompt-to-slides from scratch or to fixed templates
 - 🎨 20+ design templates with live preview
@@ -34,12 +33,6 @@ An AI-first presentation tool — prompt to deck in seconds. Built with real des
 
 </td>
 <td width="40%" align="center">
-
-**Modes**
-
-`AI Generate` → prompt to full deck  
-`Imagine` → fully custom, exactly as you picture  
-`PPT Editor` → refine any slide with prompts
 
 </td>
 </tr>
