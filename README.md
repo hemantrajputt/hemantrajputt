@@ -17,9 +17,7 @@
 
 <br/>
 
-`Data Scientist × AI Builder` · `Publicis Media` · `IIT Kanpur`
-
-Focused on `LLMs` · `RAG Pipelines` · `AI-Powered Products`
+Focused on `building ai products that makes other peoples life easier`
 
 Building **[Elurance](https://elurance.com)** — an AI-first Presentation Editor
 
