@@ -1,15 +1,8 @@
 <div align="center">
 
-<svg width="600" height="110" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&amp;family=Fira+Code:wght@400;600&amp;display=swap');
-    </style>
-  </defs>
-  <text x="50%" y="52" text-anchor="middle" font-family="'Space Grotesk', sans-serif" font-size="36" font-weight="700" fill="#ffffff">Hemant Kumar</text>
-  <text x="50%" y="82" text-anchor="middle" font-family="'Fira Code', monospace" font-size="14" fill="#7c85ff">Building at the intersection of AI × Product</text>
-  <text x="50%" y="104" text-anchor="middle" font-family="'Fira Code', monospace" font-size="12" fill="#888">IIT Kanpur · Data Scientist @ Publicis Media · Founder</text>
-</svg>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hemant+Kumar)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=2000&color=7C85FF&center=true&vCenter=true&width=520&lines=Building+at+the+intersection+of+AI+%C3%97+Product;IIT+Kanpur+%C2%B7+Data+Scientist+%40+Publicis+Media+%C2%B7+Founder)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-rajput-2b8a8123a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantrajputt)
