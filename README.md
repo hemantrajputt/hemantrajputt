@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <!-- WAVE BANNER + NAME -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:060610,40:090d18,100:0a0e1a&height=160&section=header&text=Hemant%20Kumar&fontSize=42&fontColor=00FFA3&fontAlignY=68&animation=fadeIn&fontFamily=JetBrains%20Mono&desc=Data%20Scientist%20%C2%B7%20Founder%20%C2%B7%20AI%20Builder&descSize=13&descAlignY=85&descColor=7C85FF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:060610,40:090d18,100:0a0e1a&height=160&section=header&text=Hemant%20Kumar&fontSize=42&fontColor=00FFA3&fontAlignY=68&animation=fadeIn&fontFamily=JetBrains%20Mono&desc=Analyst%20%C2%B7%20Founder%20%C2%B7%20AI%20Builder&descSize=13&descAlignY=85&descColor=7C85FF)
 
 <div align="center">
 
