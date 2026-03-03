@@ -27,7 +27,6 @@ An AI-first presentation editor — create slides from scratch, refine slides, a
 **Junior Analyst, Data Science** · Publicis Media *(Jun 2025 – Present)*
 
 **Data Science Intern** · PredictRAM *(May – Jul 2024)*
----
 
 ## 🛠️ Tech Stack
 
