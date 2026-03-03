@@ -17,7 +17,7 @@
 
 <br/>
 
-Focused on `building ai products that makes other peoples life easier`
+Focused on `building ai products that make other people's lives easier`
 
 Building **[Elurance](https://elurance.com)** — an AI-first Presentation Editor
 
