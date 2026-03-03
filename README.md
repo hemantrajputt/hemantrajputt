@@ -48,8 +48,6 @@
 
 An **AI-first** presentation editor — create slides from scratch, refine them, and do everything PowerPoint does, just through prompting.
 
-`React` &nbsp;`FastAPI` &nbsp;`LangChain` &nbsp;`AI`
-
 **`→`** [elurance.com](https://elurance.com)
 
 </td>
