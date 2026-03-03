@@ -1,16 +1,108 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hemantrajputt/hemantrajputt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hemant Kumar
+### Building at the intersection of AI × Product
+*IIT Kanpur · Data Scientist @ Publicis Media · Founder*
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantrajputt)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemantrajputt)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantrajput1201@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="60%">
+
+### [Elurance](https://elurance.com) — AI-Powered Presentation Editor
+**Live & Shipped** · *Full-stack solo build*
+
+An AI-first presentation tool — prompt to deck in seconds. Built with real design templates, PPTX export, and a refinement loop so you get exactly what you want.
+
+- 🤖 Prompt-to-slides from scratch or to fixed templates
+- 🎨 20+ design templates with live preview
+- 📤 Export to `.pptx`
+- ✏️ AI-powered slide editor with iterative refinement
+
+**Stack:** React · FastAPI · LangChain · Python
+
+[→ Try it at elurance.com](https://elurance.com)
+
+</td>
+<td width="40%" align="center">
+
+**Modes**
+
+`AI Generate` → prompt to full deck  
+`Imagine` → fully custom, exactly as you picture  
+`PPT Editor` → refine any slide with prompts
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+**Junior Analyst, Data Science** · Publicis Media *(Jun 2025 – Present)*
+- Built TikTok trend analysis platform using **LangGraph** + **ChromaDB** (vector search for semantic hashtag retrieval)
+- Designed multi-agent e-commerce intelligence system for real-time trend detection
+- Built TV media planning automation with **AI agents + UiPath RPA**
+- Audience segmentation engine with hierarchical clustering + **Lotame API** integration
+
+**Data Science Intern** · PredictRAM *(May – Jul 2024)*
+- RAG-based LLM with **LangChain + FAISS** for financial research — saved 10+ hrs/week
+- Deployed real-time ML models via **Streamlit**, improved client engagement by 15%
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+
+**Web & Backend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Data & Databases**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Automation**  
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemantrajputt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantrajputt&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hemantrajputt&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*B.Tech. Mechanical Engineering · IIT Kanpur · 2021–2025*
+
+</div>
