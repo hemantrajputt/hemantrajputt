@@ -25,15 +25,8 @@ An AI-first presentation editor — create slides from scratch, refine slides, a
 ## 💼 Experience
 
 **Junior Analyst, Data Science** · Publicis Media *(Jun 2025 – Present)*
-- Built TikTok trend analysis platform using **LangGraph** + **ChromaDB** (vector search for semantic hashtag retrieval)
-- Designed a multi-agent e-commerce intelligence system for real-time trend detection
-- Built TV media planning automation with **AI agents + UiPath RPA**
-- Audience segmentation engine with hierarchical clustering + **Lotame API** integration
 
 **Data Science Intern** · PredictRAM *(May – Jul 2024)*
-- RAG-based LLM with **LangChain + FAISS** for financial research — saved 10+ hrs/week
-- Deployed real-time ML models via **Streamlit**, improved client engagement by 15%
-
 ---
 
 ## 🛠️ Tech Stack
