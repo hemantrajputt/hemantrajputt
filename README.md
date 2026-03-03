@@ -78,10 +78,6 @@ An AI-first presentation editor — create slides from scratch with just prompti
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
----
-
-
-<div align="center">
 
 *B.Tech. Mechanical Engineering · IIT Kanpur · 2021–2025*
 
