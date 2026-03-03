@@ -17,7 +17,7 @@
 <br/>
 
 <!-- TAGLINE TYPING -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1800&color=7C85FF&center=true&vCenter=true&width=680&lines=%E2%9C%A6+IIT+Kanpur+%C2%B7+Data+Scientist+%40+Publicis+Media+%C2%B7+Founder;%E2%9C%A6+Building+AI+products+that+make+people%27s+lives+easier)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1800&color=7C85FF&center=true&vCenter=true&width=680&lines=%E2%9C%A6+IIT+Kanpur+%C2%B7+Analyst+%40+Publicis+Media+%C2%B7+Founder;%E2%9C%A6+Building+AI+products+that+make+people%27s+lives+easier)
 
 <br/>
 
