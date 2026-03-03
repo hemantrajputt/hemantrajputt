@@ -44,7 +44,7 @@ An AI-first presentation editor — create slides from scratch with just prompti
 
 **Junior Analyst, Data Science** · Publicis Media *(Jun 2025 – Present)*
 - Built TikTok trend analysis platform using **LangGraph** + **ChromaDB** (vector search for semantic hashtag retrieval)
-- Designed multi-agent e-commerce intelligence system for real-time trend detection
+- Designed a multi-agent e-commerce intelligence system for real-time trend detection
 - Built TV media planning automation with **AI agents + UiPath RPA**
 - Audience segmentation engine with hierarchical clustering + **Lotame API** integration
 
@@ -78,7 +78,5 @@ An AI-first presentation editor — create slides from scratch with just prompti
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-
-*B.Tech. Mechanical Engineering · IIT Kanpur · 2021–2025*
 
 </div>
