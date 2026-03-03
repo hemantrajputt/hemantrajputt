@@ -16,14 +16,7 @@
 
 ### [Elurance](https://elurance.com) — AI-Powered Presentation Editor
 
-An AI-first presentation editor — create slides from scratch with just prompting.
-
-- 🤖 Prompt-to-slides from scratch or to fixed templates
-- 🎨 20+ design templates with live preview
-- 📤 Export to `.pptx`
-- ✏️ AI-powered slide editor with iterative refinement
-
-**Stack:** React · FastAPI · LangChain · Python
+An AI-first presentation editor — create slides from scratch, refine slides, and do everything that you can do manually in PowerPoint, here just through prompting.
 
 [→ Try it at elurance.com](https://elurance.com)
 
