@@ -61,7 +61,7 @@ An **AI-first** presentation editor — create slides from scratch, refine them,
 ## `>_` Experience
 
 ```yaml
-- role    : Junior Analyst, Data Science
+- role    : Analyst, Data Science
   company : Publicis Media
   period  : Jun 2025 – Present
   tags    : [ Data Science, Analytics, Python ]
